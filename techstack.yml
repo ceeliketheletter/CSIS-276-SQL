@@ -1,0 +1,43 @@
+repo_name: ceeliketheletter/CSIS-276-SQL
+report_id: 7a947e0b70b2447ce440835893b102b2
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-06T05:29:59+00:00'
+requested_by: ceeliketheletter
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ceeliketheletter/CSIS-276-SQL/blob/main/MySQL_Installation/world.sql
+  detection_source: MySQL_Installation/world.sql
+  last_updated_by: Cee Gould
+  last_updated_on: 2024-03-04 22:07:04.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ceeliketheletter/CSIS-276-SQL
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ceeliketheletter/CSIS-276-SQL
+  detection_source: Repo Metadata
