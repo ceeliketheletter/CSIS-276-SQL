@@ -4,7 +4,7 @@
 
 SELECT Name, LifeExpectancy
 FROM world.country
-WHERE LifeExpectancy < 50
+WHERE LifeExpectancy <= 50
 AND LifeExpectancy IS NOT NULL
 ORDER BY LifeExpectancy
 ;
